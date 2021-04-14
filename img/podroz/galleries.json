@@ -1,0 +1,26 @@
+[
+    {"title":"Czechy",
+     "when":"2017-05-14",
+     "thumbnailUrl":"1_sm.jpg"
+    },
+    { "title":"Włochy",
+     "when":"2018-06-04",
+     "thumbnailUrl":"2_sm.jpg"
+    },
+    { "title":"Hiszpania",
+     "when":"2014-02-07",
+     "thumbnailUrl":"3_sm.jpg"
+    },
+    { "title":"Birma",
+     "when":"2015-04-02",
+     "thumbnailUrl":"4_sm.jpg"
+    },
+    { "title":"Chiny",
+     "when":"2017-02-01",
+     "thumbnailUrl":"5_sm.jpg"
+    },
+    { "title":"USA",
+     "when":"2018-12-12",
+     "thumbnailUrl":"6_sm.jpg"
+    }
+]

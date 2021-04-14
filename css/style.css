@@ -1,0 +1,101 @@
+header, nav, main, footer {
+	font-family: 'Lato', sans-serif;
+	display: block;
+	width: 100%;
+	
+}
+h1, h2, h3, h4, h5
+{
+color:white;
+font-size: 4px;
+}
+body {
+	color: #ffffff;
+	background-color:red;
+	position: relative;
+	margin: auto;
+	padding-left: 15%;
+	padding-right: 15%;
+
+	
+}
+header {
+	background-color: pink;
+	position:relative;
+	height: 50px;
+	width: 100%;;
+}
+main {
+	height: auto;
+	background-color: rgb(88, 88, 88);
+	overflow:hidden;
+	width: 100%;
+}
+nav {
+	color:white;
+	background-color: rgb(56, 56, 56);
+	width: 100%;
+	
+}
+footer {
+	background-color: rgb(59, 59, 59);
+	clear: both;
+	width: 100%;
+}
+
+
+.container {
+	position: relative;
+	margin: auto;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	border: 1px solid #ffffff; 
+}
+#logo img{
+	height: 30px;
+	width: 60px;
+}
+
+td{
+    border-style: groove;
+    border-color: black;
+    border: 1px solid black;
+    color:black;
+}
+thead
+{
+    background-color: rgb(145, 145, 145);
+}
+tbody tr:nth-child(even)
+{
+    background-color:rgb(187, 187, 187);
+}
+tbody tr:nth-child(odd)
+{
+    background-color: white;
+}
+
+.col-md {
+	padding: 0px;
+}
+#slajder
+{
+	max-height: 400px;
+	
+}
+form
+{
+	padding-top:20px;
+	color:white;
+}
+#row1 img
+{
+	width:350px;
+	height:250px;
+}
+
+#slider img
+{
+	height:450px;
+}
